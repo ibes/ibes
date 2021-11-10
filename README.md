@@ -19,6 +19,8 @@ German: native,
 English: fluent,
 Klingon: sorry, not that type of nerd, 
 The Langugage of Emotions: future expert
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ibes&show_icons=true&theme=graywhite)
   
   
   
