@@ -1,17 +1,15 @@
 ### Hi there 👋
 
-I am Sebastian, webdeveloper since 10 years (professionally) or 16 years (no friends as teenager).
+I am Sebastian, webdeveloper since 10 years (professionally) or 16 years (... introverted kid builds websites to find friends).
 
-I am specialized in PHP but all together good in learning stuff. 
+I am specialized in PHP but first of all a enthusiastic learner.
 
-I used to be a WordPress developer (and likely will pay my bills by working with WordPress for a while longer 2021-11-10) 
-and started digging deep into Laravel since 2021-06 - so: I am a future Laravel developer.
-(I read a piece about a person whose job title was "future astronat" - I like that positive outlook).
+I used to be a WordPress developer but decided that I would like to learn modern programming.
+Currently mostly working with Symfony while still supporting some clients on WordPress. 
 
-Currently based in Berlin/Germany, maybe moving to Freiburg/Germany. 
+Freshly relocated to Leipzig/Germany.
 
-Self-employed, open for freelance jobs or getting employeed (making my parents proud).
-Best: part-time and remote. 
+Currently employed at [MentalStark](https://mentalstark.online) and keeping long time clients happy.
 
 My GitHub profile is a bit unorganized. Most of my client work is very unique to there needs or I am not allowed to share. 
 
@@ -24,7 +22,7 @@ The Langugage of Emotions: future expert
   
   
   
-**Last update:** 2021-11-10
+**Last update:** 2023-03-19
 
 
 <!--
